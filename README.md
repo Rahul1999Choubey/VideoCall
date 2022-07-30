@@ -1,11 +1,11 @@
 # VideoCall
 In our application we will use:
-WebRTC
-JavaScript
-Socket.IO
-Express.js
-Node.js
-React
+WebRTC,
+JavaScript,
+Socket.IO,
+Express.js,
+Node.js,
+React,
 Redux
 
 How to run this project on local machine?
